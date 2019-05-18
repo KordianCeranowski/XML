@@ -1,0 +1,58 @@
+studenci{
+    font-size: medium;
+}
+
+grupa{
+    border-style: solid;
+    float:left;
+    padding: 4px;
+    margin: 4px;
+    background-color: #dcc3d9;
+
+}
+
+student{
+    display: block;
+    margin: 5px;
+    border-style: ridge;
+    padding: 4px;
+}
+
+student[płeć = 'K'] > nazwisko:after{
+    content: url("https://inf.ug.edu.pl/~lmielewczyk/teaching/ss/proj-jez-xml/lab/files/oznaczenieKobieta.png");
+}
+
+student[płeć = 'M'] > nazwisko:after{
+    content: url("https://inf.ug.edu.pl/~lmielewczyk/teaching/ss/proj-jez-xml/lab/files/oznaczenieMezczyzna.png");
+}
+
+grupa[nr = '1'] > student{
+    background-color: #a5ff69;
+}
+
+grupa[nr = '2'] > student{
+    background-color: #74ffe2;
+}
+
+grupa[nr = '3'] > student{
+    background-color: #8290ff;
+}
+
+student[płeć = 'K']:hover{
+    background-color: #ff10c8;
+}
+
+student[płeć = 'M']:hover{
+    background-color: #4c4cff;
+}
+
+
+nr_albumu{
+    display: block;
+    font-size: 10px;
+}
+
+nr_albumu:before{
+    content: "nr albumu: ";
+
+}

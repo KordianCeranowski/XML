@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE firma SYSTEM "zad5.dtd">
+
+<firma>
+    <nazwa>Pralnia</nazwa>
+    <dzial>
+        <pracownik numer_pesel="123456">
+            <imie>Jan</imie>
+            <nazwisko>Janowy</nazwisko>
+            <data_urodzenia>25-02-15</data_urodzenia>
+        </pracownik>
+        <pracownik numer_pesel="828282" opis="leń potworny">
+            <imie>Marek</imie>
+            <nazwisko>Borowy</nazwisko>
+            <data_urodzenia>11-12-10</data_urodzenia>
+        </pracownik>
+    </dzial>
+</firma>

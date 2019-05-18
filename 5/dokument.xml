@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pracownik xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="schema.xsd">
+ <imie>Jan</imie>
+ <nazwisko>Nowak</nazwisko>
+ <wiek>22</wiek>
+  <pensja>15,50</pensja>
+ <data_urodzenia>01.01.1999</data_urodzenia>
+
+</pracownik>

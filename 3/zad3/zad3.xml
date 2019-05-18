@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!DOCTYPE glowny SYSTEM "zad3.dtd">
+<glowny>
+    <podrzedny wartosc="help"
+               wartosc2="xdd">
+    </podrzedny>
+
+    <podrzedny wartosc="help2" wartosc2="xdd" wartosc3="w3"></podrzedny>
+
+    <podrzedny wartosc="help3" wartosc2="xdd" wartosc3="w2"></podrzedny>
+
+    <podrzedny wartosc="help4" wartosc2="xdd" wartosc3="w1"></podrzedny>
+
+    <podrzedny wartosc="help5" ></podrzedny>
+
+</glowny>

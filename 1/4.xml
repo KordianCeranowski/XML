@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<!--Skontruuj poprawny plik XML zawierający dane na temat pracowników i uczniów w szkole.
+Plik powinien zawierać 3 elementy: nauczyciele, uczniowe, pozostali, które będą zwierać odpowiednie dane na temat osób
+ tj. imię, nazwisko, data urodzenia, płeć i inne. -->
+<!--        Dodaj conajmniej trzech nauczycieli, uczniów i pozostałych pracowników.-->
+<!--        Zastosuj odpowiednie atrybuty oraz elementy.-->
+
+<szkoła>
+    <nauczyciele>
+        <nauczyciel płeć = 'M'>
+            <imie>Jan</imie>
+            <nazwisko>Janowski</nazwisko>
+            <data_urodzenia>28-01-01</data_urodzenia>
+            <inne>nic ciekawego</inne>
+        </nauczyciel>
+        <nauczyciel płeć = 'K'>
+            <imie>Jan</imie>
+            <nazwisko>Janowski</nazwisko>
+            <data_urodzenia>28-01-01</data_urodzenia>
+            <inne>nic ciekawego</inne>
+        </nauczyciel>
+        <nauczyciel płeć = '?'>
+            <imie>Jan</imie>
+            <nazwisko>Janowski</nazwisko>
+            <data_urodzenia>28-01-01</data_urodzenia>
+            <inne>nic ciekawego</inne>
+        </nauczyciel>
+    </nauczyciele>
+    <uczniowie>
+        <uczeń płeć = 'M'>
+            <imie>Tomasz</imie>
+            <nazwisko>Tomaszewski</nazwisko>
+            <data_urodzenia>28-01-02</data_urodzenia>
+            <inne>leń</inne>
+        </uczeń>
+        <uczeń płeć = 'K'>
+            <imie>Tomasz</imie>
+            <nazwisko>Tomaszewski</nazwisko>
+            <data_urodzenia>28-01-02</data_urodzenia>
+            <inne>leń</inne>
+        </uczeń>
+        <uczeń płeć = '?'>
+            <imie>Tomasz</imie>
+            <nazwisko>Tomaszewski</nazwisko>
+            <data_urodzenia>28-01-02</data_urodzenia>
+            <inne>leń</inne>
+        </uczeń>
+    </uczniowie>
+    <pozostali>
+        <woźny płeć = 'M'>
+            <imie>Alojzy</imie>
+            <nazwisko>Alojzowski</nazwisko>
+            <data_urodzenia>28-01-03</data_urodzenia>
+            <inne>agresywny</inne>
+        </woźny>
+        <sprzątaczka płeć = 'K'>
+            <imie>Alojza</imie>
+            <nazwisko>Alojzowska</nazwisko>
+            <data_urodzenia>28-01-04</data_urodzenia>
+            <inne>agresywna</inne>
+        </sprzątaczka>
+        <sprzątaczka płeć = 'K'>
+            <imie>Alojza</imie>
+            <nazwisko>Alojzowska</nazwisko>
+            <data_urodzenia>29-01-04</data_urodzenia>
+            <inne>agresywna</inne>
+        </sprzątaczka>
+    </pozostali>
+</szkoła>

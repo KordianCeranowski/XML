@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!--<!ELEMENT glownyA (podrzedny, podrzedny, podrzedny, podrzedny, podrzedny+)>-->
+<!--    <!ELEMENT podrzedny (#PCDATA)>-->
+
+<!--<!ELEMENT glownyB (((pierwszy,pierwszy)|(pierwszy,pierwszy,pierwszy)),-->
+<!--                    ((drugi,drugi)|(drugi,drugi,drugi)))>-->
+<!--        <!ELEMENT pierwszy (#PCDATA)>-->
+<!--        <!ELEMENT drugi (#PCDATA)>-->
+
+<!ELEMENT glownyC ((parzysta, parzysta)+ | ((nieparzysta, nieparzysta)*, nieparzysta))>
+        <!ELEMENT parzysta (#PCDATA)>
+        <!ELEMENT nieparzysta (#PCDATA)>

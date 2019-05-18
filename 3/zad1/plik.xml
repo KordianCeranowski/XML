@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!--<!DOCTYPE glownyA SYSTEM "plik.dtd">-->
+<!--<glownyA>-->
+<!--    <podrzedny>1</podrzedny>-->
+<!--    <podrzedny>2</podrzedny>-->
+<!--    <podrzedny>3</podrzedny>-->
+<!--    <podrzedny>4</podrzedny>-->
+<!--    <podrzedny>5</podrzedny>-->
+<!--</glownyA>-->
+
+<!--<!DOCTYPE glownyB SYSTEM "plik.dtd">-->
+<!--<glownyB>-->
+<!--    <pierwszy></pierwszy>-->
+<!--    <pierwszy></pierwszy>-->
+<!--    <drugi></drugi>-->
+<!--    <drugi></drugi>-->
+<!--    <drugi></drugi>-->
+<!--</glownyB>-->
+
+<!DOCTYPE glownyC SYSTEM "C:\Users\Kordian\Desktop\STUDIA\XML\3\zad1\plik.dtd">
+<glownyC>
+<parzysta></parzysta>
+<parzysta></parzysta>
+<parzysta></parzysta>
+<parzysta></parzysta>
+</glownyC>

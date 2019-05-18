@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE zamowienie SYSTEM "zad6.dtd">
+
+<zamowienie numer_zamowienia="">
+    <adres kraj="Polska">
+        <miejsce>Gdynia</miejsce>
+        <ulica>Kokosowa</ulica>
+        <kod_pocztowy>59-898</kod_pocztowy>
+    </adres>
+    <artykuly>
+        <artykul id="156">
+            <film>
+                <tytul>Magia</tytul>
+                <rezyser>Hiczkok</rezyser>
+                <rok_wydania>1995</rok_wydania>
+            </film>
+        </artykul>
+        <artykul id="4848">
+            <ksiazka>
+                <tytul>Olaboga</tytul>
+                <autor>Nieznany</autor>
+                <rok_wydania>1998</rok_wydania>
+                <nr_wydania>15</nr_wydania>
+            </ksiazka>
+        </artykul>
+    </artykuly>
+</zamowienie>

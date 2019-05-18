@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/css" href="1.css" ?>
+<studenci>
+    <grupa nr = '1'>
+        <student płeć='K'>
+            <imię>Jan</imię>
+            <nazwisko>Aureliuszowy</nazwisko>
+            <nr_albumu>12345678</nr_albumu>
+        </student>
+        <student płeć='K'>
+            <imię>Jan</imię>
+            <nazwisko>Aureliuszowy</nazwisko>
+            <nr_albumu>12345678</nr_albumu>
+        </student>
+        <student płeć='K'>
+            <imię>Jan</imię>
+            <nazwisko>Aureliuszowy</nazwisko>
+            <nr_albumu>12345678</nr_albumu>
+        </student>
+        <student płeć='K'>
+            <imię>Jan</imię>
+            <nazwisko>Aureliuszowy</nazwisko>
+            <nr_albumu>12345678</nr_albumu>
+        </student>
+        <student płeć='M'>
+            <imię>Jan</imię>
+            <nazwisko>Aureliuszowy</nazwisko>
+            <nr_albumu>12345678</nr_albumu>
+        </student>
+    </grupa>
+    <grupa nr = '2'>
+        <student płeć='K'>
+            <imię>Jan</imię>
+            <nazwisko>Aureliuszowy</nazwisko>
+            <nr_albumu>12345678</nr_albumu>
+        </student>
+        <student płeć='K'>
+            <imię>Jan</imię>
+            <nazwisko>Aureliuszowy</nazwisko>
+            <nr_albumu>12345678</nr_albumu>
+        </student>
+        <student płeć='M'>
+            <imię>Jan</imię>
+            <nazwisko>Aureliuszowy</nazwisko>
+            <nr_albumu>12345678</nr_albumu>
+        </student>
+        <student płeć='K'>
+            <imię>Jan</imię>
+            <nazwisko>Aureliuszowy</nazwisko>
+            <nr_albumu>12345678</nr_albumu>
+        </student>
+        <student płeć='K'>
+            <imię>Jan</imię>
+            <nazwisko>Aureliuszowy</nazwisko>
+            <nr_albumu>12345678</nr_albumu>
+        </student>
+    </grupa>
+    <grupa nr = '3'>
+        <student płeć='K'>
+            <imię>Jan</imię>
+            <nazwisko>Aureliuszowy</nazwisko>
+            <nr_albumu>12345678</nr_albumu>
+        </student>
+        <student płeć='K'>
+            <imię>Jan</imię>
+            <nazwisko>Aureliuszowy</nazwisko>
+            <nr_albumu>12345678</nr_albumu>
+        </student>
+        <student płeć='K'>
+            <imię>Jan</imię>
+            <nazwisko>Aureliuszowy</nazwisko>
+            <nr_albumu>12345678</nr_albumu>
+        </student>
+        <student płeć='M'>
+            <imię>Jan</imię>
+            <nazwisko>Aureliuszowy</nazwisko>
+            <nr_albumu>12345678</nr_albumu>
+        </student>
+        <student płeć='K'>
+            <imię>Jan</imię>
+            <nazwisko>Aureliuszowy</nazwisko>
+            <nr_albumu>12345678</nr_albumu>
+        </student>
+    </grupa>
+</studenci>
